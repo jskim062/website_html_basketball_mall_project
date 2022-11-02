@@ -112,10 +112,11 @@ span.price {
 <body>
 
 <h2>Responsive Checkout Form</h2>
+<p>Resize the browser window to see the effect. When the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other.</p>
 <div class="row">
   <div class="col-75">
     <div class="container">
-        <a href="back.html">
+      <form action="/action_page.php">
       
         <div class="row">
           <div class="col-50">
@@ -172,6 +173,8 @@ span.price {
         <label>
           <input type="checkbox" checked="checked" name="sameadr"> Shipping address same as billing
         </label>
+    </form>
+    <form action="back.html">
         <input type="submit" value="Continue to checkout" class="btn">
       </form>
     </div>
