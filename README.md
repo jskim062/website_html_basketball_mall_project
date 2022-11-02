@@ -16,11 +16,11 @@ https://www.free-css.com/free-css-templates/page283/lodge 위 웹사이트에서
 
 ![image](https://user-images.githubusercontent.com/35617378/199529740-83e7a5c0-29dd-42b7-a8fd-6993db08be6b.png)
 
-'''c
+```c
 <div class="map_container">
 <div class="map-responsive">
  <<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3170.608011681489!2d127.11414391562235!3d37.375451042805445!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357b5823238e1e3b%3A0x2c544965fe4b031c!2z67aE64u56rOg65Ox7ZWZ6rWQ!5e0!3m2!1sko!2skr!4v1667396181658!5m2!1sko!2skr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-'''
+```
 
 또한 기존 html 샘플에는 없던 결제부분도 가져와 buy now 클릭시 따로 연결시킨 purchase.html을 통해 구매 창이 뜨게 만들었다.
 ![image](https://user-images.githubusercontent.com/35617378/199532718-7c880dc3-71e3-4ab9-bd95-993d84d5f78d.png)
